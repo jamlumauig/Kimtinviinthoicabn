@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Kiếm tiền với điện thoạicủabạn</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="title_dashboard">CẢNH BÁO</string>
+    <string name="title_notifications">PHƯƠNG PHÁP</string>
+    <string name="title_tips">LỜI KHUYÊN</string>
+
+    <string name="home">"Kiếm tiền trực tuyến có thể giúp bạn có thêm một số sự hối hả và nhộn nhịp, nhưng nó cũng có thể giúp bạn thoát khỏi 9 đến 5 công việc, vì vậy bạn có thể trở thành một doanh nhân toàn thời gian. Bằng cách bắt đầu khái niệm và lựa chọn kinh doanh trực tuyến, bạn có thể có được nhiều tự do tài chính hơn, cải thiện an ninh tài chính và tiến gần hơn đến các điều khoản của bạn."
+
+        "\n\n <b>Làm thế nào để bạn kiếm tiền trực tuyến bây giờ?</b>"
+
+        "Sự thật là có một số cách thực sự mỗi ngày để kiếm tiền trực tuyến. Từ những người du mục kỹ thuật số miễn phí đến các nhà tiếp thị hiểu biết, bạn có thể sử dụng máy tính xách tay để thử nhiều khái niệm kinh doanh tại nhà."
+
+        "<b>Công việc tốt nhất để kiếm tiền trực tuyến là gì?</b>"
+
+        "Bạn có thể kiếm được rất nhiều tiền trực tuyến, nhưng một số công việc là thuận lợi nhất. Hầu như không có khoản đầu tư nào có thể bắt đầu mờ dần và in theo yêu cầu. Tạo một blog hoặc trở thành một khoản đầu tư dài hạn trong việc kiếm tiền trực tuyến. Điều chắc chắn là có rất nhiều thanh toán trực tuyến."
+
+    </string>
+
+    <string-array name="warning">
+        <item>"Cảnh báo 1"</item>
+        <item>"Cảnh báo 2"</item>
+        <item>"Cảnh báo 3"</item>
+        <item>"Cảnh báo 4"</item>
+    </string-array>
+
+    <string-array name="warning2">
+        <item>"Đừng để nó ảnh hưởng đến việc học của bạn! Nếu bạn làm quá nhiều đến mức bạn không có thời gian làm bài tập về nhà. Hãy nhớ rằng, bạn cần phải làm một vài điều ở trường để hoàn thành tốt công việc!"</item>
+        <item>"Đừng cảm thấy quá tải với tất cả công việc và việc nhà. Bạn cũng cần nghỉ ngơi!"</item>
+        <item>"Đừng gây áp lực với cha mẹ hoặc các thành viên trong gia đình về tiền bạc. Hành vi này sẽ chỉ khiến họ khó chịu và không có khả năng giúp bạn kiếm tiền."</item>
+        <item>"Hãy coi chừng người lạ. Bạn không bao giờ biết họ là ai và họ sẽ làm gì."</item>
+    </string-array>
+
+    <string-array name="tips1">
+        <item>"Mẹo 1"</item>
+        <item>"Mẹo 2"</item>
+        <item>"Mẹo 3"</item>
+        <item>"Mẹo 4"</item>
+        <item>"Mẹo 5"</item>
+        <item>"Mẹo 6"</item>
+        <item>"Mẹo 7"</item>
+    </string-array>
+
+    <string-array name="tips2">
+        <item>"Đừng đòi hỏi quá nhiều tiền, nếu không mọi người nghĩ rằng bạn cố gắng bóc lột họ."</item>
+        <item>"Đây là một nỗ lực nhỏ khi bảo mẫu. Sau đó, họ sẽ biết rằng việc trả tiền cho bạn rất dễ dàng và hỏi bạn thường xuyên hơn. Bạn kiếm được nhiều tiền hơn bằng cách này."</item>
+        <item>"Luôn hỏi ý kiến cha mẹ của bạn trước khi làm bất kỳ điều gì trong số này."</item>
+        <item>"Đừng làm việc quá sức của bản thân bằng cách cố gắng kiếm tiền. Hãy nhớ rằng bạn cần thời gian để học hoặc làm bài tập về nhà."</item>
+        <item>"Hãy nhớ thận trọng khi được hàng xóm thuê. Hãy để bố mẹ bạn ổn thỏa điều đó trước."</item>
+        <item>"Đảm bảo bạn cung cấp ngân sách hàng tuần; vì vậy, bạn cần tiết kiệm số tiền mục tiêu. Sau đó, bạn có thể chi tiêu một cách khôn ngoan."</item>
+        <item>"Đừng vượt quá nhiều, bạn còn trẻ nên không cần ham tiền mất tật mang. Ngoài ra, làm việc cẩn thận, luôn đảm bảo an toàn, sức khỏe nhé!"</item>
+    </string-array>
+
+    <string-array name="ways1">
+        <item>Dropshipping</item>
+        <item>Các khóa học và hội thảo trực tuyến</item>
+        <item>In theo yêu cầu</item>
+        <item>Sản phẩm tùy chỉnh</item>
+        <item>Etsy</item>
+        <item>Amazon</item>
+        <item>Sản phẩm kỹ thuật số</item>
+        <item>Phương tiện</item>
+    </string-array>
+
+    <string-array name="ways2">
+        <item>"Dropshipping là một mô hình kinh doanh mà bạn không thể giữ các sản phẩm trong kho của mình. Thay vào đó, khi khách hàng mua một số thứ từ cửa hàng, bên thứ ba sẽ thực hiện và cung cấp cho bạn đơn đặt hàng. Bởi vì chi phí khởi điểm thấp là thấp, đây là một cách ngày càng nhiều và kiếm tiền thanh lịch trực tuyến. "</item>
+        <item>"Tạo một khóa học trực tuyến tuyệt vời rất khó. Bạn cần hiểu sâu và rộng của một chủ đề cụ thể, sau đó có kỹ năng (và sự tận tâm) để mã hóa kiến ​​thức đó và viết hoặc ghi lại lời khuyên tốt nhất của bạn cho khách hàng. Tất nhiên , sau khi khóa học hoàn tất, bạn cần tiếp thị thành công khóa học, đây thường là phần khó nhất.   Tuy nhiên, đó là lý do khiến các khóa học trực tuyến có sức hấp dẫn khá rộng rãi. Một khi khóa học được tạo, khóa học đó sẽ nhận được tất cả các lợi ích của bất kỳ sản phẩm kỹ thuật số, chi phí cung cấp sản phẩm cho nhiều khách hàng hơn về cơ bản bằng 0, ngoại trừ lưu trữ. Hãy so sánh với nhu cầu hàng tồn kho đang phải đối mặt để duy trì bất kỳ hoạt động kinh doanh sản phẩm truyền thống nào và bạn sẽ thấy mình phải đối mặt với ít phức tạp hơn liên quan đến sản phẩm khi mở rộng quy mô. "</item>
+        <item>"In Ondemand cho phép người bán sử dụng thiết kế riêng của mình để tùy chỉnh sản phẩm tiêu chuẩn trắng, chỉ bán cho khách hàng và loại bỏ nhu cầu tồn kho tiết kiệm (đây là một tập hợp con của tập hợp con). Khi khách hàng đặt hàng , thêm thiết kế của bạn vào sản phẩm, phù hợp với đơn đặt hàng và giao hàng cho khách. "</item>
+        <item>"Thủ công phổ biến ở các nhãn hiệu trang sức, nhãn hiệu thời trang và nhãn hiệu trang trí nhà cửa. Nó cho phép bạn kiểm soát hoàn toàn việc phát triển và chất lượng sản phẩm. Nhược điểm duy nhất là: có thể tốn thời gian và khó mở rộng. Chi phí của sản xuất sản phẩm bằng tay là chi phí của vật liệu, lưu trữ thành phẩm của bạn và lao động. "</item>
+        <item>"Mỗi thị trường trực tuyến từ ETSY đến Amazon đều cung cấp những ưu và nhược điểm chung. Mặt thuận lợi là cổng mua sắm mà bạn có thể truy cập khi cần mua thứ gì đó, mọi người thường duyệt qua các trang web này, vì vậy hãy đặt cửa hàng để bạn có thể nhìn thấy chúng ở đó . "</item>
+        <item>"Amazon đã trở thành một thị trường chào đón các doanh nhân thương mại điện tử mới. Một tài khoản đăng ký mất vài phút, bạn có thể nhận được danh sách trong vài phút.  Nền tảng này có một lượng lớn khán giả, đó là thị trường toàn cầu, là điểm đến cho việc khám phá và nghiên cứu sản phẩm. Tối ưu hóa danh sách có thể giúp bạn tra cứu sản phẩm và mở ra các cơ hội mới. Quảng cáo ứng dụng Amazons có thể cải thiện khả năng hiển thị của đối tượng được nhắm mục tiêu cao về thương hiệu của bạn. "</item>
+        <item>"Sản phẩm kỹ thuật số mang lại tỷ suất lợi nhuận tốt nhất cho bất kỳ sản phẩm nào bạn có thể bán. Chi phí phát triển trước đây có thể cao, nhưng chi phí biến đổi của việc bán sản phẩm kỹ thuật số tương đối thấp. Sau khi sản xuất phương tiện hoặc phần mềm, việc cung cấp cho khách hàng thì không rất đắt.  Về cốt lõi, các sản phẩm kỹ thuật số là tài sản vô hình, bạn có thể lặp lại doanh số bán hàng mà không cần nguồn bổ sung. Chúng thường nhập tệp có thể tải xuống, chẳng hạn như PDF, plugin hoặc tài liệu tương tác. Những sản phẩm này đã trở thành nhiều người có ảnh hưởng chuyên nghiệp hàng đầu, các blogger hoặc các biểu tượng công khai, chẳng hạn như hướng dẫn, sách điện tử, mẫu, khảo sát nghiên cứu, kế hoạch và hướng dẫn. "</item>
+        <item>"Truyền thông là một thuật ngữ rất rộng, nhưng nếu bạn là người tạo ra thị trường, bạn có thể nhận được mô tả tốt nhất thông qua âm nhạc, video, nghệ thuật kỹ thuật số, thanh toán, tạp chí hoặc podcast.  Phương tiện truyền thông dường như có liên quan chặt chẽ với nhau cho các sản phẩm kỹ thuật số, nhưng sự khác biệt về phương tiện truyền thông là nó thường dẫn đến các công ty sáng tạo, chẳng hạn như một nhà văn tung ra một gói đăng ký hoặc một nghệ sĩ có tiền trả hoặc một nghệ sĩ tìm hiểu nghệ sĩ trực tuyến. "</item>
+    </string-array>
+</resources>
